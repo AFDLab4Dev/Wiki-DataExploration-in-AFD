@@ -31,9 +31,13 @@ cette page vise à fournir une cartographie de l'ensemble des données disponibl
   Conflits agro-pastoraux
 - Gouvernance, paix, sécurité (données très riches) : PArmi les 11 pays africains à l’avoir déjà fait, seul le Mali (enquêtes en 2013 et 2015) est dans notre présente zone d’intérêt. Tchad, Niger et Sénégal sont dans le pipeline. Rapport Mali : http://www.instat-mali.org/contenu/eq/dynapaix14-15_eq.pdf 
 
-
 #### Sécurité Alimentaire:
 - Données fewsnet: agrègent veille sur la sécurité alimentaire en Afrique, http://api.tiles.mapbox.com/v3/gfdrr-labs.map-44bl16ot,fews-net.sahel-fewsnet-foodsecurity-apriljune-2012/mm/zoompan,tooltips,legend,bwdetect.html#5/20.006412000431233/0.14257812500001207
+
+#### Données conflits et violence
+- Armed Conflict Location and Eevent Data Project (ACLED) http://www.acleddata.com/
+- Global Conflict Risk Index (GCRI): indicateur composite http://conflictrisk.jrc.ec.europa.eu/
+- The Social Conflict Analysis Database (SCAD) includes protests, riots, strikes, inter-communal conflict, government violence against civilians, and other forms of social conflict not systematically tracked in other conflict datasets https://www.strausscenter.org/scad.html
 
 **Données de malnutrition:** 
 Malnutrition Aiguë Globale (MAG) = seuils d'alerte ≥10% et d’urgence 15%
