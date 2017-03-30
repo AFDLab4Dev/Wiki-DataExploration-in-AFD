@@ -24,12 +24,10 @@ cette page vise à fournir une cartographie de l'ensemble des données disponibl
 
 - Occupation des sols: https://modis.gsfc.nasa.gov/data/dataprod/mod12.php
 
-#### Données socio-culturelles/gouvernance
+#### Données socio-culturelles
 - Perception des conditions de vie, gouvernance, culture société: http://www.afrobarometer.org/fr/pays/
-- Conflits (troubles, manifestations, violences) : http://www.acleddata.com/. Deux bases disponibles : 1997-2016 et 2017 (actualisée en continu). Consultable via API
 - Geo-referencing Ethnic Power Relations : http://www.icr.ethz.ch/data/geoepr, relations politiques entre ethnies.
   Conflits agro-pastoraux
-- Gouvernance, paix, sécurité (données très riches) : PArmi les 11 pays africains à l’avoir déjà fait, seul le Mali (enquêtes en 2013 et 2015) est dans notre présente zone d’intérêt. Tchad, Niger et Sénégal sont dans le pipeline. Rapport Mali : http://www.instat-mali.org/contenu/eq/dynapaix14-15_eq.pdf 
 
 #### Sécurité Alimentaire:
 - Données fewsnet: agrègent veille sur la sécurité alimentaire en Afrique, http://api.tiles.mapbox.com/v3/gfdrr-labs.map-44bl16ot,fews-net.sahel-fewsnet-foodsecurity-apriljune-2012/mm/zoompan,tooltips,legend,bwdetect.html#5/20.006412000431233/0.14257812500001207
