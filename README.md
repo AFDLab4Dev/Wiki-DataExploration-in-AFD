@@ -36,28 +36,29 @@ Cette page vise à fournir une cartographie de l'ensemble des données disponibl
 #### Sécurité Alimentaire:
 - Données [fewsnet](http://api.tiles.mapbox.com/v3/gfdrr-labs.map-44bl16ot,fews-net.sahel-fewsnet-foodsecurity-apriljune-2012/mm/zoompan,tooltips,legend,bwdetect.html#5/20.006412000431233/0.14257812500001207){:target="_blank"}: agrègent veille sur la sécurité alimentaire en Afrique, 
 
+**Données de malnutrition:** 
+- Enquête vulnérabilité, nutrition, insécurité alimentaire (soutenues par UNICEF, BM, Luxdev, Gates, PAM), identifiables sur [http://www.ihsn.org/](http://www.ihsn.org/home/){:target="_blank"}
+
+NB. Malnutrition Aiguë Globale (MAG) = seuils d'alerte ≥10% et d’urgence 15%; Malnutrition Aiguë Sévère. (MAS) = seuil d'urgence=2%
+
 #### Données conflits et violence
 - Armed Conflict Location and Eevent Data Project: [ACLED](http://www.acleddata.com/){:target="_blank"}
 - Global Conflict Risk Index (GCRI): indicateur composite [http://conflictrisk.jrc.ec.europa.eu/](http://conflictrisk.jrc.ec.europa.eu/){:target="_blank"}
 - The Social Conflict Analysis Database (SCAD) includes protests, riots, strikes, inter-communal conflict, government violence against civilians, and other forms of social conflict not systematically tracked in other conflict datasets [https://www.strausscenter.org/scad.html](https://www.strausscenter.org/scad.html){:target="_blank"}
 
-**Données de malnutrition:** 
-- Enquête vulnérabilité, nutrition, insécurité alimentaire (soutenues par UNICEF, BM, Luxdev, Gates, PAM), identifiables sur (http://www.ihsn.org/home/){:target="_blank"}
-NB. Malnutrition Aiguë Globale (MAG) = seuils d'alerte ≥10% et d’urgence 15%; Malnutrition Aiguë Sévère. (MAS) = seuil d'urgence=2%
-
-#### Données d’infra : 
-- Portail de données géocodées: [(http://geo.aiddata.org](http://geo.aiddata.org/query/#!/){:target="_blank"}
+#### Données d’infrastructure : 
+- Portail de données géocodées: [http://geo.aiddata.org](http://geo.aiddata.org/query/#!/){:target="_blank"}
  
 #### Socioéconomique, microdonnées
 - Unicef enquêtes MICS : [http://mics.unicef.org/](http://mics.unicef.org/surveys){:target="_blank"}
-- USAID DHS : [http://dhsprogram.com/(http://dhsprogram.com/data/available-datasets.cfm]){:target="_blank"}
+- USAID DHS : [http://dhsprogram.com](http://dhsprogram.com/data/available-datasets.cfm]){:target="_blank"}
 - Sociales et économiques/entreprises : [http://catalog.ihsn.org](http://catalog.ihsn.org){:target="_blank"}
 - Banque mondiale, Living Standards Measurement Study - [LSMS](http://go.worldbank.org/XP4GRPITV0){:target="_blank"}
 
 **Autres microdonnées:**
 - Microdonnées Banque mondiale: [http://microdata.worldbank.org](http://microdata.worldbank.org/){:target="_blank"} (divers, entreprises, services financiers)
 
-- UNESCO données éducations: ISU [http://data.uis.unesco.org](http://data.uis.unesco.org){:target="_blank"}. Base de données IIEP Pole de Dakar : [https://www.iipe-poledakar.org](https://www.iipe-poledakar.org/fr/indicateurs/base-dindicateurs){:target="_blank"}
+- UNESCO données éducations: ISU - [http://data.uis.unesco.org](http://data.uis.unesco.org){:target="_blank"}. Base de données IIEP Pole de Dakar : [https://www.iipe-poledakar.org](https://www.iipe-poledakar.org/fr/indicateurs/base-dindicateurs){:target="_blank"}
 
 #### Climat et géologie
 European Space Agency (ESA):
