@@ -10,7 +10,7 @@ cette page vise à fournir une cartographie de l'ensemble des données disponibl
 
 
 #### Géographique
-- (Open Street Map)[http://www.openstreetmap.org/]
+- [Open Street Map](http://www.openstreetmap.org/)
 - Données OSM téléchargeables sur [http://download.geofabrik.de/africa.html](http://download.geofabrik.de/africa.html)
 - Repertoire de shapfile: [http://www.naturalearthdata.com/downloads](http://www.naturalearthdata.com/downloads) [http://www.gadm.org/version2](http://www.gadm.org/version2) 
 - ESA Thematic Exploration platform: [https://tep.eo.esa.int/](https://tep.eo.esa.int/)
