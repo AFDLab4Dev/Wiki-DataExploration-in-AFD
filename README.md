@@ -62,8 +62,8 @@ NB. Malnutrition Aiguë Globale (MAG) = seuils d'alerte ≥10% et d’urgence 15
 #### Climat et géologie
 European Space Agency (ESA):
 - Hydrologie ESA: [https://hydrology-tep.eo.esa.int](https://hydrology-tep.eo.esa.int/#!){:target="_blank"}
-- Risques géologiques ESA: [(https://geohazards-tep.eo.esa.int/geobrowser){:target="_blank"}
-- Données sur les côtes ESA: [https://coastal-tep.eo.esa.int/portal){:target="_blank"}
+- Risques géologiques ESA: [https://geohazards-tep.eo.esa.int](https://geohazards-tep.eo.esa.int/geobrowser){:target="_blank"}
+- Données sur les côtes ESA: [https://coastal-tep.eo.esa.int/portal](https://coastal-tep.eo.esa.int/portal){:target="_blank"}
 
 #### Environnement
 - Forêt ESA (plateforme non disponible le 4 avril 2017): [https://forestry-tep.eo.esa.int](https://forestry-tep.eo.esa.int/){:target="_blank"}
