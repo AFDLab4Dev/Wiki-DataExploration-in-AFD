@@ -1,4 +1,3 @@
-# Wiki #DataExploration in AFD
 
 cette page vise à fournir une cartographie de l'ensemble des données disponibles sur la thématique du développement.
 
