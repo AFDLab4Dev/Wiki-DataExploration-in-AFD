@@ -1,6 +1,7 @@
 
 ## Bienvue sur le wiki du portail data de l'AFD !
 Cette page vise à fournir une cartographie de l'ensemble des données disponibles sur la thématique du développement.
+Pour en savoir davantage sur l'écosystem data voir le [Glossaire Data](https://github.com/AFDLab4Dev/Wiki-DataExploration-in-AFD/blob/master/Glossary.md){:target="_blank"} (En anglais).
 
 #### Généraliste
 - [http://data.afd.fr](http://data.afd.fr){:target="_blank"}
