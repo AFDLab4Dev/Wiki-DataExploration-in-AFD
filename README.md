@@ -10,46 +10,43 @@ Cette page vise à fournir une cartographie de l'ensemble des données disponibl
 
 
 #### Géographique
-- [Open Street Map](http://www.openstreetmap.org/)
-- Données OSM téléchargeables sur [http://download.geofabrik.de/africa.html](http://download.geofabrik.de/africa.html)
-- Repertoire de shapfile: [http://www.naturalearthdata.com/downloads](http://www.naturalearthdata.com/downloads) [http://www.gadm.org/version2](http://www.gadm.org/version2) 
-- ESA Thematic Exploration platform: [https://tep.eo.esa.int/](https://tep.eo.esa.int/)
-- [Sentinel Playground](http://apps.sentinel-hub.com/sentinel-playground/): Jouer avec les images satellites de l'ESA: 
+- [Open Street Map](http://www.openstreetmap.org/){:target="_blank"}
+- Données OSM téléchargeables sur [http://download.geofabrik.de/africa.html](http://download.geofabrik.de/africa.html){:target="_blank"}
+- Repertoire de shapfile: [http://www.naturalearthdata.com/downloads](http://www.naturalearthdata.com/downloads){:target="_blank"} [http://www.gadm.org/version2](http://www.gadm.org/version2){:target="_blank"}
+- ESA Thematic Exploration platform: [https://tep.eo.esa.int/](https://tep.eo.esa.int/){:target="_blank"}
+- [Sentinel Playground](http://apps.sentinel-hub.com/sentinel-playground/){:target="_blank"}: Jouer avec les images satellites de l'ESA: 
 
 
 #### Infrastructures : 
 
 #### Urbain:
-- [UN habitat](http://urbandata.unhabitat.org/)
-- Portail de l'ESA sur l'urbain: [https://urban-tep.eo.esa.int](https://urban-tep.eo.esa.int/#!thematic)
+- [UN habitat](http://urbandata.unhabitat.org/){:target="_blank"}
+- Portail de l'ESA sur l'urbain: [https://urban-tep.eo.esa.int](https://urban-tep.eo.esa.int/#!thematic){:target="_blank"}
 
 #### Population
-- Estimation très fine à partir de données satellitaires : http://www.worldpop.org.uk
-- world gridded population data : http://sedac.ciesin.columbia.edu/data/collection/gpw-v4 . Modélisation s’appuyant partent principalement des données de recensement disponibles et font des projection pour avoir les population par pixel pour des périodes de 5 an.
+- Estimation très fine à partir de données satellitaires : [worldpop](http://www.worldpop.org.uk){:target="_blank"}
+- world gridded population data : [sedac.ciesin.columbia.edu](http://sedac.ciesin.columbia.edu/data/collection/gpw-v4){:target="_blank"}. Modélisation s’appuyant partent principalement des données de recensement disponibles et font des projection pour avoir les population par pixel pour des périodes de 5 an.
 
-- Occupation des sols: https://modis.gsfc.nasa.gov/data/dataprod/mod12.php
+- Occupation des sols: [satellite modis](https://modis.gsfc.nasa.gov/data/dataprod/mod12.php){:target="_blank"}
 
 #### Données socio-culturelles
-- Perception des conditions de vie, gouvernance, culture société: http://www.afrobarometer.org/fr/pays/
-- Geo-referencing Ethnic Power Relations : http://www.icr.ethz.ch/data/geoepr, relations politiques entre ethnies.
-  Conflits agro-pastoraux
+- Perception des conditions de vie, gouvernance, culture société: [afrobarometer](http://www.afrobarometer.org/fr/pays/){:target="_blank"}
+- Geo-referencing Ethnic Power Relations : relations politiques entre ethnies - [http://www.icr.ethz.ch/](http://www.icr.ethz.ch/data/geoepr){:target="_blank"}
 
 #### Sécurité Alimentaire:
-- Données fewsnet: agrègent veille sur la sécurité alimentaire en Afrique, http://api.tiles.mapbox.com/v3/gfdrr-labs.map-44bl16ot,fews-net.sahel-fewsnet-foodsecurity-apriljune-2012/mm/zoompan,tooltips,legend,bwdetect.html#5/20.006412000431233/0.14257812500001207
+- Données [fewsnet](http://api.tiles.mapbox.com/v3/gfdrr-labs.map-44bl16ot,fews-net.sahel-fewsnet-foodsecurity-apriljune-2012/mm/zoompan,tooltips,legend,bwdetect.html#5/20.006412000431233/0.14257812500001207){:target="_blank"}: agrègent veille sur la sécurité alimentaire en Afrique, 
 
 #### Données conflits et violence
-- Armed Conflict Location and Eevent Data Project (ACLED) http://www.acleddata.com/
-- Global Conflict Risk Index (GCRI): indicateur composite http://conflictrisk.jrc.ec.europa.eu/
-- The Social Conflict Analysis Database (SCAD) includes protests, riots, strikes, inter-communal conflict, government violence against civilians, and other forms of social conflict not systematically tracked in other conflict datasets https://www.strausscenter.org/scad.html
+- Armed Conflict Location and Eevent Data Project: [ACLED](http://www.acleddata.com/){:target="_blank"}
+- Global Conflict Risk Index (GCRI): indicateur composite [http://conflictrisk.jrc.ec.europa.eu/](http://conflictrisk.jrc.ec.europa.eu/){:target="_blank"}
+- The Social Conflict Analysis Database (SCAD) includes protests, riots, strikes, inter-communal conflict, government violence against civilians, and other forms of social conflict not systematically tracked in other conflict datasets [https://www.strausscenter.org/scad.html](https://www.strausscenter.org/scad.html){:target="_blank"}
 
 **Données de malnutrition:** 
-Malnutrition Aiguë Globale (MAG) = seuils d'alerte ≥10% et d’urgence 15%
-Malnutrition Aiguë Sévère. (MAS) = seuil d'urgence=2%
-
-- Enquête vulnérabilité, nutrition, insécurité alimentaire (soutenues par UNICEF, BM, Luxdev, Gates, PAM), identifiables sur http://www.ihsn.org/home/
+- Enquête vulnérabilité, nutrition, insécurité alimentaire (soutenues par UNICEF, BM, Luxdev, Gates, PAM), identifiables sur (http://www.ihsn.org/home/){:target="_blank"}
+NB. Malnutrition Aiguë Globale (MAG) = seuils d'alerte ≥10% et d’urgence 15%; Malnutrition Aiguë Sévère. (MAS) = seuil d'urgence=2%
 
 #### Données d’infra : 
-- Portail de données géocodées: http://geo.aiddata.org/query/#!/
+- Portail de données géocodées: [(http://geo.aiddata.org](http://geo.aiddata.org/query/#!/){:target="_blank"}
  
 #### Socioéconomique
 - MICS : http://mics.unicef.org/surveys (social, démographique, santé)
