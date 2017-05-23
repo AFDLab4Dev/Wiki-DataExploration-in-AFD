@@ -3,20 +3,25 @@
 cette page vise à fournir une cartographie de l'ensemble des données disponibles sur la thématique du développement.
 
 #### Généraliste
-- data.afd.fr : http://data.afd.fr
-- Humanitarian Data Exchange:https://data.humdata.org/ 
-- MPI popuplation par district base consolidée: http://www.ophi.org.uk/multidimensional-poverty-index/mpi-2015/mpi-data/
+- [http://data.afd.fr](http://data.afd.fr)
+- [Humanitarian Data Exchange](https://data.humdata.org/)
+- MPI popuplation par district base consolidée:[lien](http://www.ophi.org.uk/multidimensional-poverty-index/mpi-2015/mpi-data/)
+- Worldpop: explorer les densités de population à travers le monde: [lien](http://maps.worldpop.org.uk/)
+
 
 #### Géographique
-- map: http://www.openstreetmap.org/
-- Données OSM téléchargeables sur http://download.geofabrik.de/africa.html 
-- shapfile: http://www.naturalearthdata.com/downloads/10m-cultural-vectors/ ;  http://www.gadm.org/version2 
+- (Open Street Map)[http://www.openstreetmap.org/]
+- Données OSM téléchargeables sur [http://download.geofabrik.de/africa.html](http://download.geofabrik.de/africa.html)
+- Repertoire de shapfile: [http://www.naturalearthdata.com/downloads](http://www.naturalearthdata.com/downloads) [http://www.gadm.org/version2](http://www.gadm.org/version2) 
+- ESA Thematic Exploration platform: [https://tep.eo.esa.int/](https://tep.eo.esa.int/)
+- [Sentinel Playground](http://apps.sentinel-hub.com/sentinel-playground/): Jouer avec les images satellites de l'ESA: 
+
 
 #### Infrastructures : 
-- Données d’infrastructures en Afrique : www.infrastructureafrica.org, plans des réseaux routiers, électriques, centrales, etc
 
 #### Urbain:
-- http://urbandata.unhabitat.org/
+- [UN habitat](http://urbandata.unhabitat.org/)
+- Portail de l'ESA sur l'urbain: [https://urban-tep.eo.esa.int](https://urban-tep.eo.esa.int/#!thematic)
 
 #### Population
 - Estimation très fine à partir de données satellitaires : http://www.worldpop.org.uk
@@ -54,4 +59,12 @@ Malnutrition Aiguë Sévère. (MAS) = seuil d'urgence=2%
 - Enquêtes LSMS : http://go.worldbank.org/XP4GRPITV0 (sociales, économiques, NB : nouvelle vague d’enquêtes au Mali, Niger et Burkina aisément accessibles avec notamment des données très riches sur l’agriculture)
 - EDU  données ISU http://data.uis.unesco.org. Base de données IIEP Pole de Dakar : https://www.iipe-poledakar.org/fr/indicateurs/base-dindicateurs (incateur africain EPT)
 
+#### Climat et géologie
 
+- Hydrologie ESA (plateforme non terminée le 4 avril 2017): https://hydrology-tep.eo.esa.int/#!
+- Risques géologiques ESA: https://geohazards-tep.eo.esa.int/geobrowser
+- Données sur les côtes ESA: https://coastal-tep.eo.esa.int/portal
+
+#### Environnement
+
+- Forêt ESA (plateforme non disponible le 4 avril 2017): https://forestry-tep.eo.esa.int/
