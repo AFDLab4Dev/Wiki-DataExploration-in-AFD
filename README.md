@@ -10,15 +10,16 @@ Si chacun utilise presque au quotidien Wikipédia, il arrive que l'on tombe sur 
 
 Ceci est d'autant plus vrai dans le contexte de l'AFD où les agents possèdent une expertise propre sur certains territoires, expertise qui peut être perdue en cas de changement de poste ou départ à la retraite. Laisser le maximum d'informations sur wikipédia permet de ne pas perdre cette expertise et en faire profiter tout le monde, y compris ses collègues à l'AFD !
 
+Le Data Wiki, c'est une initiative de partage d'informations autour des données pour le développement
+
 Ces outils se renforcent par la participation de tous: Apprenons à contribuer nous aussi !
 Quels sont les grands projets participatifs open -source ? (à compléter)
 
 Des milliers de projets existent. Voici une liste (très) réduite de projets auxquels contribuer:
-
-    Wikipédia: https://fr.wikipedia.org
-        Apprendre à Contribuer: https://fr.wikipedia.org/wiki/Aide:Premiers_pas/2
-    OpenStreetMap: www.openstreetmap.org
-        Contribuer en cliquant sur le bouton modifier !
+- Wikipédia: https://fr.wikipedia.org
+    - Apprendre à Contribuer: https://fr.wikipedia.org/wiki/Aide:Premiers_pas/2
+- OpenStreetMap: www.openstreetmap.org
+    - Contribuer en cliquant sur le bouton modifier !
 
 
 #### Généraliste
